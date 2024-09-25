@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "2c52b6af7edc2612",
+    "type": "split",
+    "children": [
+      {
+        "id": "425722afc770ef74",
+        "type": "split",
+        "children": [
+          {
+            "id": "dbafdb62d1c6e15f",
+            "type": "split",
+            "dimension": 70.67632850241546,
+            "children": [
+              {
+                "id": "6ff3cae98b4027c2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f61cf07204618cb6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Agentes.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "1aae12ad9ab2f7ea",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a432b2990777686f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5aa7f6ee368f3fa7",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "52d27f1357321689",
+            "type": "tabs",
+            "dimension": 29.32367149758454,
+            "children": [
+              {
+                "id": "743bf52bca5d5217",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "31e9699409974a78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tipos de Busca.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "006223e196a2d49d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Agentes inteligentes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d42da0ed159f1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42200a1bb4f3473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc8467f9ea0ad93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10a959b4a4817ebc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9147d5eaa6562d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c368cd2d69723ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e444d89f320034fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b604f40beb3f441",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ca0e1ed18b0b39d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17e9b915a796dc1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d87e2cd9bddb572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2d87e2cd9bddb572",
+  "lastOpenFiles": [
+    "Agentes.md",
+    "Ambiente.md",
+    "DESINTELIGENCIA NATURAL.md",
+    "Pasted image 20240924203751.png",
+    "Agentes inteligentes.md",
+    "Ambientes.md",
+    "espaço de ações.md",
+    "Tipos de Busca.md",
+    "Welcome.md",
+    "consistencia de arco.md",
+    "Recursão.md",
+    "().md"
+  ]
+}

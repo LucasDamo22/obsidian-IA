@@ -1,0 +1,6 @@
+- [[Busca não informada]]
+	- Busca em profundidade
+	- 
+- [[Busca informada]]
+- [[Busca Local]]
+- [[Busca competitiva]]
